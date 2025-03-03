@@ -30,16 +30,23 @@ python app.py
 
 Open your browser and go to **http://127.0.0.1:5000/**  
 
-## 📂 Project Structure  
-video-motion-analysis/
-│── static/             # Folder to store uploaded videos
-│── templates/          # HTML templates for Flask
-│   ├── index.html      # Main UI for video upload and streaming
-│── app.py              # Main Flask application
-│── requirements.txt    # Python dependencies
-│── README.md           # Project documentation
 
+```markdown
+## 📂 Project Structure
 
+```
+- **video-motion-analysis/**  
+  - 📁 **static/** → Stores uploaded videos  
+  - 📁 **templates/** → Contains HTML templates for Flask  
+    - 📄 **index.html** → Main UI for video upload and streaming  
+  - 📄 **app.py** → Main Flask application  
+  - 📄 **requirements.txt** → List of Python dependencies  
+  - 📄 **README.md** → Project documentation  
+```
+```markdown
+```
+
+This format is **more descriptive** and visually structured! 🚀
 ## 🛠 How It Works  
 1️⃣ **Upload a video** via the UI.  
 2️⃣ The system extracts frames and initializes **optical flow tracking**.  
