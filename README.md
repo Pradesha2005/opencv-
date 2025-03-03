@@ -14,7 +14,7 @@ This Flask-based web application analyzes object motion in a video using **OpenC
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/Pradesha2005/opencv-.git
-cd video-motion-analysis
+cd opencv
 ```
 ### 2️⃣ Install Dependencies  
 Make sure you have Python installed (>=3.7). Then, install the required packages:  
