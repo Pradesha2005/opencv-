@@ -48,19 +48,5 @@ video-motion-analysis/
 5️⃣ Data is also sent via **real-time API** using SSE (`/data_feed`).  
 
 
----
 🔗 **GitHub Repo:** (https://github.com/Pradesha2005/opencv-)  
-📧 **Contact:**pradesha3112@gmail.com 
-```
-
-##sample output
-  
-
-
-https://github.com/user-attachments/assets/8072698e-ceac-45a7-95d6-a391135539dc
-
-
-
-
- 
-
+📧  Contact:pradesha3112@gmail.com 
