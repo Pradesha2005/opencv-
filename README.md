@@ -1,4 +1,4 @@
-# Video Motion Analysis using Optical Flow  
+# MOTION TRACKING AND ANALYSIS USING OPENCV
 
 ## 📌 Overview  
 This Flask-based web application analyzes object motion in a video using **OpenCV's optical flow** technique. It computes **velocity, acceleration, force, and direction** in real-time while displaying the video feed with overlays.  
