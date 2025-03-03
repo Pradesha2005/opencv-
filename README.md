@@ -43,8 +43,7 @@ Open your browser and go to **http://127.0.0.1:5000/**
   - 📄 **requirements.txt** → List of Python dependencies  
   - 📄 **README.md** → Project documentation  
 ```
-```markdown
-```
+
 
 This format is **more descriptive** and visually structured! 🚀
 ## 🛠 How It Works  
