@@ -18,11 +18,15 @@ cd video-motion-analysis
 ```
 ### 2️⃣ Install Dependencies  
 Make sure you have Python installed (>=3.7). Then, install the required packages:  
+```bash
 pip install -r requirements.txt
+```
 
 
 ### 3️⃣ Run the Application  
+```bash
 python app.py
+```
 
 Open your browser and go to **http://127.0.0.1:5000/**  
 
@@ -45,14 +49,17 @@ video-motion-analysis/
 
 
 ---
-🔗 **GitHub Repo:** [Your Repository Link](https://github.com/yourusername/video-motion-analysis)  
+🔗 **GitHub Repo:** (https://github.com/Pradesha2005/opencv-)  
 📧 **Contact:**pradesha3112@gmail.com 
 ```
 
 ##sample output
   
 
-https://github.com/user-attachments/assets/47854110-367c-401e-957f-efb534d06dc5
+
+https://github.com/user-attachments/assets/8072698e-ceac-45a7-95d6-a391135539dc
+
+
 
 
  
