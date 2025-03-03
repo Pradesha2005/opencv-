@@ -31,18 +31,18 @@ python app.py
 Open your browser and go to **http://127.0.0.1:5000/**  
 
 
-```markdown
+
 ## 📂 Project Structure
 
-```
-- **video-motion-analysis/**  
+
+- **object_motion_webapp/**  
   - 📁 **static/** → Stores uploaded videos  
   - 📁 **templates/** → Contains HTML templates for Flask  
     - 📄 **index.html** → Main UI for video upload and streaming  
   - 📄 **app.py** → Main Flask application  
   - 📄 **requirements.txt** → List of Python dependencies  
   - 📄 **README.md** → Project documentation  
-```
+
 
 
 This format is **more descriptive** and visually structured! 🚀
