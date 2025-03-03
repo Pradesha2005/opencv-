@@ -50,3 +50,15 @@ video-motion-analysis/
 
 🔗 **GitHub Repo:** (https://github.com/Pradesha2005/opencv-)  
 📧  Contact:pradesha3112@gmail.com 
+
+SAMPLE OUTPUT:
+
+
+
+https://github.com/user-attachments/assets/e651792e-453f-40a1-8e66-da60c3ce6095
+
+
+
+
+
+
